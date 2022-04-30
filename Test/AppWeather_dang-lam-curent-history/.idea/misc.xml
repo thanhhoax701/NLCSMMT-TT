@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-Studio/AppWeather/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/AppWeather/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Android-Studio/AppWeather/app/src/main/res/layout/dong_listview.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1195" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/custom_progressbar1.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/custom_progressbar2.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/custom_progressbar_clkk.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/custom_seekbar.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_add_circle_30.xml" value="0.1545" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1545" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1545" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_location_on_30.xml" value="0.1455" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_menu_30.xml" value="0.1455" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1545" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_baseline_search_30.xml" value="0.1455" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/layer.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/line.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/line_2.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_add.xml" value="0.1515" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_button.xml" value="0.129" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_history.xml" value="0.1175" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_line.xml" value="0.1" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_search.xml" value="0.129" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_vector.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/my_vetor.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/drawable/thumb.xml" value="0.155" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/activity_current_weather.xml" value="0.25" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/activity_history_weather.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/activity_time_weather.xml" value="0.25" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/category.xml" value="0.21920289855072464" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/currentweather.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/demo.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/detail_weather_time.xml" value="0.21920289855072464" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/dong_listview.xml" value="0.24592391304347827" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/dong_listview_time.xml" value="0.21920289855072464" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/dong_lv_history.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/item_detail_weather_time.xml" value="0.25" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/item_history_weather.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/layout/item_weather_time.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1195" />
+        <entry key="..\:/Android-Studio/NLCSMMT/AppWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1195" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/drawable/my_button.xml" value="0.1035" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/layout/dong_listview.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeather/app/src/main/res/menu/menu_tuychon.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeatherKP/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeatherKP/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Android-Studio/ThamKhao/AppWeatherKP/app/src/main/res/layout/dong_listview.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028106257107",
+    "firebase_url": "https://weather-efe43-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weather-efe43",
+    "storage_bucket": "weather-efe43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028106257107:android:382b919970cc69a0d4ca26",
+        "android_client_info": {
+          "package_name": "com.example.appweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028106257107-1mpjt0gf31nrpt6tjqfdq8aalttg1un0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appweather",
+            "certificate_hash": "73bd5cf73e10b57e13d0d72f4e9c2b2af559f271"
+          }
+        },
+        {
+          "client_id": "1028106257107-lkb4tl389iam7v3mo58d9ds5orkhfros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KzKyOJ1AFpZJG4oBEjYIYtaQNTQgKUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028106257107-lkb4tl389iam7v3mo58d9ds5orkhfros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
